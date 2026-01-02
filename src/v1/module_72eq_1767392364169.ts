@@ -1,0 +1,1 @@
+const util_72eq = (d: any) => d;
