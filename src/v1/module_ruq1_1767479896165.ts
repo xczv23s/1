@@ -1,0 +1,1 @@
+const util_ruq1 = (d: any) => d;
